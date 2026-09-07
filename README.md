@@ -12,7 +12,7 @@
 
 
 
-2. TALLER MECÁNICO DE MOTOS
+2.  TALLER MECÁNICO DE MOTOS
    
 - Debido al incremento de nuevos vehículos, es muy favorable implementar talleres capacitados, ya que esto ayuda a gestionar
   de mejor manera las solicitudes y reparaciones necesarias.
